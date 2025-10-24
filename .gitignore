@@ -1,0 +1,7 @@
+# Directories
+.vs/
+
+# Files
+Icon.txt
+TODO.txt
+*.png
